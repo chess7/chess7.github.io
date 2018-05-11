@@ -169,7 +169,7 @@ body.scale-effect .btn-holder .btn-play{transform:scale(28);-webkit-transform:sc
 #about .about-btn .btn{margin:7px 7px;background:#08a8dd;color:#282828;width:180px;border-radius:2px;}
 #about .about-btn .btn:hover{background:#22c2f7;}
 #timeline-experience{position:relative;z-index:2;pointer-events:none;}
-#timeline-experience::before{content:'';position:absolute;top:0;bottom:23px;left:50%;height:99.5%;width:4px;opacity:0.3;background:#08a8dd;}
+#timeline-experience::before{content:'';position:absolute;top:50px;bottom:23px;left:50%;height:99.5%;width:4px;opacity:0.3;background:#08a8dd;}
 .timeline-block{position:relative;}
 .timeline-block::after{clear:both;content:"";display:table;}
 .timeline-block:first-child{margin-top:0;}
